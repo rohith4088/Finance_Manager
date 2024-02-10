@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 1. Run the application:
 
-python expense_tracker.py
+run categorize.ipynb file and then dashboard.ipynb file 
 
 Access the application through your web browser.
 
